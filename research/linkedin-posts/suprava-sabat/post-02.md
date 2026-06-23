@@ -1,28 +1,52 @@
 Author: Suprava Sabat
-Date: ~June 2026 (LinkedIn displayed: 2 weeks ago)
-Link: https://www.linkedin.com/posts/suprava-sabat-saasleadgen_i-got-a-reply-from-a-900m-company-here-share-7467466820372021248-mMYx/
+Date: ~May/June 2026 (LinkedIn displayed: 3 weeks ago)
+Link: https://www.linkedin.com/posts/suprava-sabat-saasleadgen_apollopartner-share-7465661214191337472-iTPu/
 
 Content: 
 
-I got a reply from a $900M+ company (here’s how) 👇🏻
+We spent 172 hours building an AI native GTM system in Claude that finds hidden leads for you
 
-I was sending personalised PPTs with their pain point with a roadmap they can follow
+We first used it for ourselves and then our clients and weeks later
 
-The entire process: 
+37+ high quality sales booked...
 
-1. First we found relevant triggers for them to make a “decision NOW”
+here's how it operates:
 
-It was influencer campaign for us 
+1. Find companies hiring for our niche roles inside claude
+2. Use Apollo.io inside claude to find the exact ICP
+3. Finding hidden triggers with our ICP skill
+Finding relevant decision makers
 
-2. Then we use Claude to fight right information (like launches/news) 
+the reason it works is because it figures out very specific things like:
 
-3. Use Gamma inside claude to create personalised PPTs at mass 
+- why a company will hire now?
 
-4. Sent the decks to my 1st linkedin connections. (Mentioned in the caption how)
+- whom did they hire in last 6 months?
 
-5. Sent a meme as a follow-up
+- recent news about them
 
+- current age of the decision maker
+
+- new tool stack they onboarded recently and more such triggers
+
+After this we map out specific solutions to specific segments 
+
+On average we do 30+ segments per campaign 
+
+With mindmap + a solution document for each of the segments
+
+Each segments having 40-100 companies (depends sometimes even 5)
+
+The most best part is all done with some simple prompts
+
+if you want the exact prompts + skills + and the funnel just comment "yes" and i'll dm you.
 
 Notes:
 
-Image in original LinkedIn post contains the outreach example.
+- High-performing outbound starts with identifying intent signals and business triggers, not building prospect lists first.
+
+- Deep account research (hiring patterns, recent hires, tool adoption, company news) creates stronger personalization opportunities.
+
+- Segment-specific messaging outperforms generic campaigns. The team builds 30+ micro-segments and maps a tailored solution to each segment.
+
+- AI is being used to automate research and segmentation, while strategy remains focused on trigger-based outreach.

@@ -1,27 +1,30 @@
-# Cursor, Claude Code, and Codex Setup
+# Cursor, Claude Code, Codex Setup + Cold Outreach Research
 
 ## Project Overview
 
-This repository documents my setup process for installing Cursor IDE, adding the Claude Code and Codex extensions, opening the repository in Cursor, and verifying the available login/access flows.
+This repository documents two things:
 
-The goal of this project was to follow the setup instructions, document the tools installed, record the steps completed, and clearly explain any issues encountered during the process.
+1. The setup process for installing Cursor IDE, adding the Claude Code and Codex extensions, and verifying the available login/access flows.
+2. A research project on **cold outreach for B2B SaaS** — 10 practitioners, their content collected and organized, built as part of the 100Hires hiring assessment.
 
 ---
 
-## Tools Installed
+## Part 1: Tools Setup
 
-### 1. Cursor IDE
-- Installed Cursor IDE from the official Cursor website.
+### Tools Installed
+
+**Cursor IDE**
+- Installed from the official Cursor website.
 - Opened the assignment repository/folder inside Cursor.
 
-### 2. Claude Code Extension
-- Installed the official **Claude Code for VS Code** extension by Anthropic inside Cursor.
+**Claude Code Extension**
+- Installed the official Claude Code for VS Code extension by Anthropic inside Cursor.
 - Extension identifier: `anthropic.claude-code`
 - Version installed: `2.1.177`
 - Verified that the Claude Code sidebar opened successfully inside Cursor.
 
-### 3. Codex Extension
-- Installed the official **Codex — OpenAI's coding agent** extension inside Cursor.
+**Codex Extension**
+- Installed the official Codex — OpenAI's coding agent extension inside Cursor.
 - Extension identifier: `openai.chatgpt`
 - Version installed: `26.609.30741`
 - Signed in using my ChatGPT/OpenAI account.
@@ -29,7 +32,7 @@ The goal of this project was to follow the setup instructions, document the tool
 
 ---
 
-## Steps Completed
+### Setup Steps Completed
 
 1. Created a public GitHub repository for this project.
 2. Installed Cursor IDE.
@@ -42,53 +45,99 @@ The goal of this project was to follow the setup instructions, document the tool
 9. Opened the Codex sidebar inside Cursor.
 10. Signed in to Codex using my ChatGPT/OpenAI account.
 11. Tested Codex by sending a basic message and confirming that it responded.
-12. Created this README.md file to document the full process.
-13. Prepared the project for committing and pushing to GitHub.
 
 ---
 
-## Issues Encountered and How I Solved Them
+### Issues Encountered and How I Solved Them
 
-### Issue 1: Cursor initially opened in Agent/Home mode
-When I first opened Cursor, I was not in the normal editor workspace. This made it difficult to find the Extensions panel.
+**Issue 1: Cursor initially opened in Agent/Home mode**
+When I first opened Cursor, I was not in the normal editor workspace, making it difficult to find the Extensions panel.
 
-**Solution:**  
-I opened the proper editor window, opened the project folder, and then used `Ctrl + Shift + X` to access the Extensions panel.
+*Solution:* Opened the proper editor window, opened the project folder, and used `Ctrl + Shift + X` to access the Extensions panel.
 
-### Issue 2: Claude Code installation initially redirected to VS Code
+**Issue 2: Claude Code installation initially redirected to VS Code**
 While trying to install Claude Code from the Visual Studio Marketplace, the install button opened VS Code instead of Cursor.
 
-**Solution:**  
-I returned to Cursor, opened the proper Extensions panel, searched for `Claude Code`, and installed the official Anthropic extension directly inside Cursor.
+*Solution:* Returned to Cursor, opened the Extensions panel directly, searched for Claude Code, and installed the official Anthropic extension inside Cursor.
 
-### Issue 3: Claude Code required a paid access path for login/use
-After installing Claude Code successfully, the Claude Code sidebar opened and displayed login/access options:
-- Claude.ai Subscription
-- Anthropic Console
-- Bedrock, Foundry, or Vertex
+**Issue 3: Claude Code required a paid access path**
+After installing Claude Code, the sidebar displayed login options — Claude.ai Subscription, Anthropic Console, Bedrock, Foundry, or Vertex — all of which require paid access or enterprise setup.
 
-These options require either a Claude subscription, API billing, or an enterprise/cloud provider setup.
+*Solution:* Did not purchase a subscription as the assignment did not require paid usage. Documented the access limitation and proceeded with the rest of the setup. Will get a Claude Pro subscription for any future work that requires it.
 
-**Solution:**  
-I did not purchase a paid subscription because the assignment did not require paid usage and I have not been introduced to Claude Code due to the fact my previous work didn't require its need. So I do not have a Claude Pro subscription myself, but will get one soon for any work needed. I documented the access limitation clearly and proceeded with the rest of the setup.
+**Issue 4: Codex setup needed verification**
+After installing Codex, needed to confirm whether login worked with my existing account.
 
-### Issue 4: Codex setup needed verification
-After installing Codex, I needed to confirm whether login worked with my existing account.
-
-**Solution:**  
-I opened the Codex sidebar, signed in with my ChatGPT/OpenAI account, sent a test message, and confirmed that Codex responded successfully.
+*Solution:* Opened the Codex sidebar, signed in with my ChatGPT/OpenAI account, sent a test message, and confirmed that Codex responded successfully.
 
 ---
 
-## Final Status
+### Setup Final Status
 
-- Cursor IDE installed: Completed
-- Public GitHub repository created: Completed
-- Repository opened in Cursor: Completed
-- Claude Code extension installed in Cursor: Completed
-- Claude Code login/access screen reached: Completed
-- Codex extension installed in Cursor: Completed
-- Codex login completed: Completed
-- Codex response verified: Completed
-- README.md created: Completed
-- Project ready to commit and push to GitHub
+| Item | Status |
+|---|---|
+| Cursor IDE installed | ✅ Completed |
+| Public GitHub repository created | ✅ Completed |
+| Repository opened in Cursor | ✅ Completed |
+| Claude Code extension installed | ✅ Completed |
+| Claude Code login/access screen reached | ✅ Completed |
+| Codex extension installed | ✅ Completed |
+| Codex login completed | ✅ Completed |
+| Codex response verified | ✅ Completed |
+
+---
+
+## Part 2: Cold Outreach Research — B2B SaaS
+
+### Research Overview
+
+10 practitioners researched. All actively posting or publishing in 2026. Content collected across LinkedIn, YouTube, and blogs.
+
+The filter applied throughout: if the content could not directly inform what to write or how to structure an outreach sequence, it was excluded. This is a swipe file, not a trend report.
+
+---
+
+### Expert Split
+
+**Strategy experts** — systems thinkers who explain how cold outreach works end-to-end:
+Roman Czerny, Suprava Sabat, Matt Lucero, Hoani Taylor, Atishay Jain
+
+**Messaging/scripts experts** — practitioners who publish exact copy, templates, CTAs, and email teardowns you can adapt immediately:
+Nick Abraham, Will Allred, Josh Braun, Jed Mahrle, Alex Berman
+
+---
+
+### Content Summary
+
+| Author | Type | Files | Primary Angle |
+|---|---|---|---|
+| Roman Czerny | LinkedIn | 2 posts | Blueprint outreach, LinkedIn DM sequences |
+| Suprava Sabat | LinkedIn | 2 posts | Trigger-based outreach, personalized PPT campaigns |
+| Nick Abraham | LinkedIn | 3 posts | CTA framing, personalization tactics, campaign types |
+| Atishay Jain | LinkedIn + YouTube | 1 post + 1 video | Deliverability, scaling tiers |
+| Matt Lucero | YouTube | 2 videos | Copy frameworks, warm calling scripts |
+| Hoani Taylor | YouTube | 2 videos | Loom outreach system, infrastructure |
+| Will Allred | Blog | 3 articles | Email teardowns, personalization process |
+| Josh Braun | Blog | 3 articles | Full email examples with teardowns |
+| Jed Mahrle | Newsletter | 1 article | Exact CTAs, subject lines, copy patterns |
+| Alex Berman | Blog | 1 article | Blueprint CTA, differentiation copy |
+
+Total: ~20 content artifacts across 10 practitioners.
+
+---
+
+### Repo Structure
+
+```
+/research/sources.md                          — all source links, organized by author
+/research/linkedin-posts/{author}/            — LinkedIn posts, one file per post
+/research/youtube-transcripts/{author}/       — YouTube video research notes
+/research/other/{author}/                     — blog posts, newsletter content
+README.md
+```
+
+---
+
+### Why These 10
+
+Every expert included either publishes with data behind their claims (reply rates, volume metrics, case results) or shows actual email copy — not just advice about email copy. Experts who only posted GTM trends, AI tool roundups, or pipeline philosophy were excluded regardless of follower count.
